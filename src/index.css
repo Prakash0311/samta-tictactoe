@@ -1,0 +1,17 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  margin: 20px;
+}
+
+button {
+  cursor: pointer;
+}
+
